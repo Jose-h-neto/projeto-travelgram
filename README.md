@@ -56,7 +56,7 @@ O projeto utiliza separação de estilos por responsabilidade:
 - `nav.css`: navegação  
 - `main.css`: área principal e galeria  
 - `footer.css`: rodapé  
-- `index.css`: importação eorganização dos módulos
+- `index.css`: importação e organização dos módulos
 
 ## Como executar
 
