@@ -1,4 +1,4 @@
-# Travel Profile
+# Travelgram
 
 Projeto front-end desenvolvido com HTML e CSS que simula o perfil de um usuário em uma rede social, inspirado em layouts semelhantes ao Instagram.
 
